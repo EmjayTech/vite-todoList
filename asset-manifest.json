@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vite-todoList/static/css/main.2aa96ae7.css",
+    "main.js": "/vite-todoList/static/js/main.8d7f1fb9.js",
+    "index.html": "/vite-todoList/index.html",
+    "main.2aa96ae7.css.map": "/vite-todoList/static/css/main.2aa96ae7.css.map",
+    "main.8d7f1fb9.js.map": "/vite-todoList/static/js/main.8d7f1fb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aa96ae7.css",
+    "static/js/main.8d7f1fb9.js"
+  ]
+}
